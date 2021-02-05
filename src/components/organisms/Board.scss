@@ -1,0 +1,10 @@
+.game__board {
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.8);
+  margin-top: 80px;
+}
+
+.game__board-row:after {
+  clear: both;
+  content: "";
+  display: table;
+}

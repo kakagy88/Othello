@@ -1,0 +1,15 @@
+node_modules
+npm*.log
+yarn*.log
+yarn.*
+package-lock.json
+
+# bk
+_bk
+*bk.tpl
+*.bk.*
+
+# dist
+dist/*.css
+dist/*.js
+dist/index.html
